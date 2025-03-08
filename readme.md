@@ -1,6 +1,6 @@
 <img src="https://cloud-g9egf1wf3-hack-club-bot.vercel.app/0group_2.svg" alt="Banner showing an 11-year-old coder who loves computer science, web development, and design">
 
-# HI i am A_Techyboy!!! 👋 <br> and i am a VANILA js frontend web developer 🌐 <br> btw im 12
+# HI i am RezHackXYZ!!! 👋 <br> and i am a VANILA js frontend web developer 🌐 <br> btw im 12
 
 
 ### things i actualy know
@@ -9,7 +9,7 @@
  - JS
  - Python
 
-# [what i have made](https://atb.quest/projects/) i have not listed it all there
+# [what i have made](https://rezhack.xyz/projects/) i have not listed it all there
 ### DV - Data base worker
 try it at the #high-seas-help-test chanle in slack... it is a bot that finds data from a set data base and gives the relevent info
 ### Event tracker
